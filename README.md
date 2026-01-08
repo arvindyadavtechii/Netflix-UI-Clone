@@ -1,2 +1,6 @@
 # Netflix-UI-Clone
-netflix-ui-clone-indol.vercel.app
+---
+
+## 🔥 Live Preview
+
+https://netflix-ui-clone-indol.vercel.app
