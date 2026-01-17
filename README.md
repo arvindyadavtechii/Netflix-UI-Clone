@@ -21,8 +21,8 @@ Live Demo: https://netflix-ui-clone-indol.vercel.app
 
 ## 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript  
-Styling: CSS3, Flexbox, Grid, Hover Effects  
+Frontend: HTML, CSS
+Styling: CSS3, Flexbox, Grid
 Deployment: Vercel  
 
 ---
@@ -33,8 +33,6 @@ netflix-ui-clone/
 ├── index.html  
 ├── css/  
 │   └── style.css  
-├── js/  
-│   └── script.js  
 ├── assets/  
 │   ├── images/  
 │   └── icons/  
